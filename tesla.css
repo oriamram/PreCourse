@@ -1,0 +1,27 @@
+table{
+
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  display: inline;
+   width: 120px;
+   height: 155px;
+}
+h1{
+  display: inline;
+  
+}
+
+td.solid{
+  border-style: solid;
+
+}
+
+body{
+
+  background: rgb(113, 114, 103,0.4);
+  
+  
+  
+}
